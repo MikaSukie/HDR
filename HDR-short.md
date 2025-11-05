@@ -2,7 +2,7 @@
 *A Common Sense™ Statement for Consumers, Governments, and Companies*
 
 ## Preamble
-In the digital age, our lives, work, and property increasingly exist as data, software, and online services. Digital rights must be treated as real rights—ownership, consent, and fairness should apply equally online and offline.
+In the digital age, our lives, work, and property increasingly exist as data, software, and online services. Digital rights must be treated as real rights, ownership, consent, and fairness should apply equally online and offline.
 
 ---
 
@@ -32,7 +32,7 @@ In the digital age, our lives, work, and property increasingly exist as data, so
    - Users must be able to access, modify, or delete their data and accounts without coercion or “dark patterns.”
 
 7. **Right to Opt-In, Not Opt-Out**  
-   - Sensitive or potentially harmful digital practices—including biometrics, tracking, data sharing, retention, and automated restrictions—must require explicit opt-in consent.  
+   - Sensitive or potentially harmful digital practices, including biometrics, tracking, data sharing, retention, and automated restrictions, must require explicit opt-in consent.  
    - Negative or harmful actions that limit, remove, or damage a user’s rights, experience, or safety **must never be forced or disguised as opt-out.**
 
 8. **Right to Protection from Deceptive Practices**  
@@ -43,7 +43,7 @@ In the digital age, our lives, work, and property increasingly exist as data, so
    - Privacy and stability are critical for activists, marginalized creators, and those facing health or safety risks.
 
 10. **Principle of Digital Fairness**  
-    - Digital does not mean diminished rights—governments, companies, and platforms must uphold the same protections online as in the physical world.
+    - Digital does not mean diminished rights, governments, companies, and platforms must uphold the same protections online as in the physical world.
 
 ---
 
