@@ -1,9 +1,6 @@
 # HDR Human and Digital Rights Document
 A Common Sense™ document for consumers, governments, and companies.
 
-# Statement of Digital Rights  
-*A Common Sense Manifesto for the Digital Age*
-
 ## Preamble
 
 In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new understandings about what it means to **own**, **control**, and **consent** to digital goods and contracts.
