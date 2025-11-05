@@ -8,7 +8,7 @@ A Common Sense™ document for consumers, governments, and companies.
 
 In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new understandings about what it means to **own**, **control**, and **consent** to digital goods and contracts.
 
-This document defines the fundamental rights and protections every user—minor or adult—should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
+This document defines the fundamental rights and protections every user, minor or adult, should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
 
 ---
 
@@ -23,7 +23,7 @@ This document defines the fundamental rights and protections every user—minor 
 
 ## Universal Requirement for Evidence Transparency in Lawmaking and Enforcement
 
-- The principles of evidence transparency and accountability must apply equally to all laws, regulations, and enforcement actions—digital or physical.  
+- The principles of evidence transparency and accountability must apply equally to all laws, regulations, and enforcement actions, digital or physical.  
 - Laws such as KOSA, the Online Safety Act, and others with real-world enforcement consequences must be based on clear, verifiable, and balanced evidence.  
 - Without such standards, laws risk becoming instruments of unchecked power, violating citizens’ rights and undermining public trust.
 
@@ -37,9 +37,9 @@ Default opt-out or implied consent is **never acceptable**, especially for actio
 Opt-in is required for:
 
 - **Personal data collection and processing**, including tracking, profiling, behavioral advertising, or biometric analysis.  
-- **Data retention** beyond immediate service function — retention must be **opt-in only**, **time-limited**, and **proportionate**.  
+- **Data retention** beyond immediate service function ,  retention must be **opt-in only**, **time-limited**, and **proportionate**.  
 - **Use of cookies or similar tracking technologies** beyond necessary technical functions.  
-- **Subscription or paid service enrollment**—no automatic or hidden sign-ups.  
+- **Subscription or paid service enrollment**, no automatic or hidden sign-ups.  
 - **Third-party data sharing or affiliate transfers.**  
 - **Automated decision-making or AI profiling** that affects access, restrictions, or visibility.  
 - **Location tracking and device sensor access (camera, microphone, GPS).**  
@@ -52,7 +52,7 @@ They must retain the right to withdraw consent **at any time** without penalty o
 
 ## 1. Right to True Ownership of Digital Goods
 
-- When users purchase digital products, they must **own** what they pay for—not receive a revocable license.  
+- When users purchase digital products, they must **own** what they pay for, not receive a revocable license.  
 - Companies must not “brick,” disable, or revoke legitimate access without due cause or explicit, prior consent.  
 - Digital ownership must mirror physical ownership protections.
 
@@ -94,14 +94,14 @@ They must retain the right to withdraw consent **at any time** without penalty o
 
 - Users must be able to access, download, modify, or delete their data and accounts freely.  
 - Manipulative “dark patterns” preventing account deletion or forcing consent are prohibited.  
-- Users control their digital footprint — not corporations.
+- Users control their digital footprint ,  not corporations.
 
 ---
 
 ## 6. Right to Protection from Deceptive or Coercive Practices
 
 - Companies may **not** use deception, coercion, or manipulation to extract data or consent.  
-- No feature that removes or damages a user’s rights may be enabled by default — **harmful or restrictive actions must be opt-in** only.  
+- No feature that removes or damages a user’s rights may be enabled by default ,  **harmful or restrictive actions must be opt-in** only.  
 - Blocking privacy tools like VPNs, ad blockers, or proxies violates user rights.  
 - Forced data collection, consent fatigue, and manipulative “accept to continue” systems are prohibited.  
 - No retroactive or hidden consent changes may be used to coerce continued participation.  
