@@ -13,7 +13,7 @@ In the digital age, our lives, work, and property increasingly exist as data, so
    - Users deserve the ability to challenge decisions impacting their digital lives.
 
 2. **Right to True Ownership of Digital Goods**  
-   - If you pay for it, you own it; companies cannot arbitrarily revoke access or “brick” your property.  
+   - If you pay for it or create it, you own it.; companies cannot arbitrarily revoke access or “brick” your property.  
    - Digital ownership protections should mirror those of physical goods.
 
 3. **Right to Fair and Transparent Digital Contracts**  
