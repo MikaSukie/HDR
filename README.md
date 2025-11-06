@@ -1,5 +1,5 @@
 # HDR Human and Digital Rights Declaration
-*A Common Sense™ Statement for Consumers, Governments, and Companies*
+*A Common Sense™ Statement for Consumers, Governments, and Companies (needs a rewrite)*
 
 ## Preamble
 In the digital age, our lives, work, and property increasingly exist as data, software, and online services. Digital rights must be treated as real rights, ownership, consent, and fairness should apply equally online and offline.
