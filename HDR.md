@@ -1,4 +1,4 @@
-# HDR — Human and Digital Rights Document
+# HDR, Human and Digital Rights Document
 
 *A comprehensive, rights-first declaration and implementation guide for consumers, governments, platforms, and creators.*
 
@@ -48,7 +48,7 @@ Our identities, work, and possessions increasingly exist as data, software, and 
 
 ---
 
-## Algorithmic Design & Advertising — Detailed Reforms
+## Algorithmic Design & Advertising, Detailed Reforms
 
 ### A. Constrained Recommender Principle
 - **Default Constrained Mode:** Platforms must provide and default new users to a Constrained Recommendation Mode that:
@@ -96,7 +96,7 @@ Our identities, work, and possessions increasingly exist as data, software, and 
 
 ## Enforcement, Scope & Practicality
 
-- **Focus on Commercial Actors:** Regulation should target commercial distributors, major platforms, device manufacturers, and app stores — entities with market power and revenue that can be held to compliance standards.  
+- **Focus on Commercial Actors:** Regulation should target commercial distributors, major platforms, device manufacturers, and app stores, entities with market power and revenue that can be held to compliance standards.  
 - **Avoid Policing Hobbyists:** Hobbyist open-source forks, private builds, and personal compilations that are not commercially distributed should not be the enforcement targets.  
 - **Proportional Remedies:** Penalties should scale with harm and include mandatory remediation, customer restitution, funding for audits, and public reporting obligations.  
 - **Supportive Public Funding:** Governments should fund public-interest technology teams to create open, audited reference implementations and educational resources for constrained recommenders and privacy-preserving proofs.
