@@ -1,128 +1,138 @@
-# HDR Human and Digital Rights Document
-A Common Sense™ document for consumers, governments, and companies.
+# HDR — Human and Digital Rights Document
+
+*A comprehensive, rights-first declaration and implementation guide for consumers, governments, platforms, and creators.*
 
 ## Preamble
-
-In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new understandings about what it means to **own**, **control**, and **consent** to digital goods and contracts.
-
-This document defines the fundamental rights and protections every user, minor or adult, should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
+Our identities, work, and possessions increasingly exist as data, software, and networked services. This document defines actionable rights and practical reforms so digital life preserves ownership, autonomy, privacy, and fairness at scale.
 
 ---
 
-## Evidence Transparency and Accountability
+## Core Principles and Rights
 
-- Governments, companies, and platforms must provide clear, verifiable sources for all data and claims used to justify policies restricting digital rights.  
-- Statements about “harm,” “risk,” “safety,” or “exposure” must include context about user agency, consent, and the nature of content engagement.  
-- Policies based on unverified, biased, or incomplete data undermine public trust and violate fairness.  
-- Users deserve transparency and balanced information to understand and challenge decisions impacting their digital lives.
+### Evidence Transparency & Accountability
+- Any policy, moderation, or enforcement action that restricts user rights must be documented with verifiable evidence, explainable rationale, and bias checks.  
+- Users must be able to obtain human review, appeal decisions, and access remediation and provenance information for consequential actions.
 
----
+### Right to True Ownership of Digital Goods
+- Purchases grant ownership-like protections: no arbitrary disabling, bricking, or unilateral license revocation except through transparent, lawful processes (court order or verified fraud remediation).  
+- Remote-control or kill-switch capabilities must be disclosed at point of sale; user consent is required for enabling remote control beyond repair/security purposes.
 
-## Universal Requirement for Evidence Transparency in Lawmaking and Enforcement
+### Right to Fair and Transparent Digital Contracts
+- Clear, plain-language terms must be provided before purchase or signup.  
+- No unilateral mid-term material changes without explicit user acceptance or a fair renegotiation process; automatic renewals and hidden subscriptions are prohibited without explicit consent.
 
-- The principles of evidence transparency and accountability must apply equally to all laws, regulations, and enforcement actions, digital or physical.  
-- Laws such as KOSA, the Online Safety Act, and others with real-world enforcement consequences must be based on clear, verifiable, and balanced evidence.  
-- Without such standards, laws risk becoming instruments of unchecked power, violating citizens’ rights and undermining public trust.
+### Right to Meaningful Consent for Data & AI
+- Personal data collection, profiling, persistent identifiers, and inclusion of user content in model training require explicit opt-in.  
+- Consent must be granular, reversible without penalty, and accompanied by clear retention limits and deletion options.  
+- Data retention beyond immediate service purpose is opt-in, time-limited, and auditable.
 
----
+### Right to Freedom from Arbitrary Censorship
+- Moderation rules must be specific, published, and appealable. Automated systems must expose accuracy limits and provide human review for consequential decisions affecting access or rights.
 
-## What Must Be Opt-In (Never Opt-Out)
+### Right to Control Your Digital Presence
+- Users can access, download, modify, port, and permanently delete their data and accounts without coercive interfaces or “dark patterns.”  
+- Services cannot make critical features contingent on surrendering privacy or ownership rights.
 
-Certain digital practices are so sensitive, harmful, or impactful that **explicit, informed opt-in consent is mandatory.**  
-Default opt-out or implied consent is **never acceptable**, especially for actions that **remove rights, reduce access, or harm the user’s autonomy**.
+### Opt-In Requirement for Sensitive Practices
+- Sensitive practices (biometrics, deep behavioral profiling for ads, location tracking, device sensor access, and using user content for AI training) require explicit opt-in and clear, plain-language disclosure of the consequences.
 
-Opt-in is required for:
+### Protection from Deceptive & Coercive Practices
+- Blocking privacy tools (VPNs, ad blockers), forcing consent by locking features, hidden renewals, or punishing users to extract data are prohibited.  
+- No threats to delete, restrict, or suspend accounts as a method to coerce consent.
 
-- **Personal data collection and processing**, including tracking, profiling, behavioral advertising, or biometric analysis.  
-- **Data retention** beyond immediate service function ,  retention must be **opt-in only**, **time-limited**, and **proportionate**.  
-- **Use of cookies or similar tracking technologies** beyond necessary technical functions.  
-- **Subscription or paid service enrollment**, no automatic or hidden sign-ups.  
-- **Third-party data sharing or affiliate transfers.**  
-- **Automated decision-making or AI profiling** that affects access, restrictions, or visibility.  
-- **Location tracking and device sensor access (camera, microphone, GPS).**  
-- **Collection or use of user-generated content and data (art, text, voice, logs) for AI training or algorithm development.**
+### Special Protections for Vulnerable Individuals
+- Enhanced privacy defaults and escape channels for activists, journalists, marginalized creators, minors in precarious family situations, and people at risk of abuse or persecution.
 
-Users must be clearly informed *before* consenting, using simple and transparent language.  
-They must retain the right to withdraw consent **at any time** without penalty or retaliation.
-
----
-
-## 1. Right to True Ownership of Digital Goods
-
-- When users purchase digital products, they must **own** what they pay for, not receive a revocable license.  
-- Companies must not “brick,” disable, or revoke legitimate access without due cause or explicit, prior consent.  
-- Digital ownership must mirror physical ownership protections.
-
-**Legal references:**  
-- EU Consumer Rights Directive (2011/83/EU); UK Consumer Rights Act 2015; Australian Consumer Law.
+### Principle of Digital Fairness
+- Digital rights must match or exceed physical-world protections. Secret profiling, irreversible identity linking, and discriminatory algorithmic practices are forbidden.
 
 ---
 
-## 2. Right to Fair and Transparent Digital Contracts
+## Algorithmic Design & Advertising — Detailed Reforms
 
-- Contracts must be clear, visible before purchase, and not altered mid-term without consent.  
-- Users must have the right to fixed-term agreements without sudden price changes or term revisions.  
-- Unilateral changes violate consumer protections and trust.
+### A. Constrained Recommender Principle
+- **Default Constrained Mode:** Platforms must provide and default new users to a Constrained Recommendation Mode that:
+  - Recommends primarily from explicit user actions (watched content, subscribed creators) and clearly related topics/creators.  
+  - Caps exploratory probes and cross-category escalation designed to maximize session length or surface emotionally intense material.  
+  - Prevents automated content-probe patterns that detect psychological vulnerabilities.
+- **Explore as Explicit Opt-In:** Broader discovery that mixes categories, tests novelty aggressively, or prioritizes engagement spikes must be opt-in and clearly labeled. For minors, Explore is off by default unless the minor and (where appropriate) guardian opt in.
 
-**Legal references:**  
-- UK Consumer Rights Act 2015, EU Directive 93/13/EEC, Australian Consumer Law.
+### B. Advertising Limits & Contextual Advertising
+- **Behavioral Profiling Restrictions:** Ads that depend on inferred sensitive attributes (sexual preferences, mental-health signals, or age-inferred sexual targeting) are prohibited without explicit opt-in.  
+- **Contextual Ads Permitted:** Ads tied to the immediate content context (not deep psychological inference) are allowed by default.  
+- **Exploitative Attention Bans:** Ads using sexualized thumbnails, manipulative emotional hooks, or attention-baiting to exploit inferred vulnerabilities are banned or strictly limited in feeds accessible to minors and must carry enhanced transparency for adult targets.  
+- **Ad Transparency & Control:** Each ad must include a concise label explaining why the user was targeted, what categories of data were used, and a one-click mechanism to opt out and delete the ad profile.
 
----
-
-## 3. Right to Meaningful Consent for Data and Surveillance
-
-- Data collection, retention, or surveillance requires explicit, informed, **opt-in consent**.  
-- Adults may revoke or modify consent without penalty.  
-- Minors aged 14–17 should be recognized as capable of meaningful consent.  
-- Blanket restrictions justified as “protection” undermine autonomy and self-determination.  
-- **All data retention must be strictly opt-in, minimal, and time-limited.**
-
----
-
-## 4. Right to Freedom from Arbitrary Censorship
-
-- Content restrictions must be transparent, justified, and appealable.  
-- Blanket bans or automated moderation without clear reasoning erode expression and trust.  
-- AI profiling or vague “standards” cannot replace human accountability.
+### C. Restore Friction & Session Boundaries
+- Platforms must offer user-facing tools that restore healthy friction: session timers, daily usage summaries, explicit “exit” affordances, and easy ways to pause recommendations. Design should make stopping a simple, low-effort action to reduce passive habit formation.
 
 ---
 
-## 5. Right to Control Digital Presence and Data
+## Age, Minors & Autonomy
 
-- Users must be able to access, download, modify, or delete their data and accounts freely.  
-- Manipulative “dark patterns” preventing account deletion or forcing consent are prohibited.  
-- Users control their digital footprint ,  not corporations.
-
----
-
-## 6. Right to Protection from Deceptive or Coercive Practices
-
-- Companies may **not** use deception, coercion, or manipulation to extract data or consent.  
-- No feature that removes or damages a user’s rights may be enabled by default ,  **harmful or restrictive actions must be opt-in** only.  
-- Blocking privacy tools like VPNs, ad blockers, or proxies violates user rights.  
-- Forced data collection, consent fatigue, and manipulative “accept to continue” systems are prohibited.  
-- No retroactive or hidden consent changes may be used to coerce continued participation.  
-- **Threats to delete, restrict, or suspend accounts to force consent are digital coercion and forbidden.**
+- **Prefer Design & Incentive Reform:** Prioritize incentive and recommendation design changes that reduce harms across all ages rather than mandatory persistent identity checks.  
+- **Graduated Autonomy Model:** Support graduated levels of autonomy and control that grow with age and demonstrated capability rather than binary gating.  
+- **Privacy-Preserving Age Proofs:** Where law requires age verification, prefer ephemeral or cryptographic proofs (zero-knowledge proofs, one-time attestations, trusted third-party attestations that do not create persistent identity links).  
+- **No Persistent OS Age IDs:** Do not build device-level permanent age or identity stacks that become long-term surveillance vectors. Enforcement should target commercial distributors and platforms operating at scale, not hobbyist or private builds.
 
 ---
 
-## 7. Special Protections for Vulnerable Individuals
+## Data, AI Training & User Rights
 
-Unfair practices and invasive tracking disproportionately harm those with disabilities, mental health conditions, or marginalized identities.  
-Privacy and autonomy protections are essential to preserve their safety, expression, and livelihoods.
-
----
-
-## Conclusion
-
-The digital ecosystem must uphold **ownership**, **consent**, **transparency**, and **fairness** with equal or greater strength than in the physical world.  
-Digital does not mean diminished autonomy.  
-Governments, companies, and platforms must recognize and uphold these principles in both law and design.
+- **Explicit Model-Training Consent:** Users must be notified and explicitly opt in before their content is used to train models. Opt-in must be granular (allowing separate consent for different uses) and revocable.  
+- **Right to Removal & Notice:** Platforms must provide practical mechanisms to remove user contributions from training datasets where feasible; if removal is technically infeasible, that limitation must be disclosed and require opt-in.  
+- **Portability & Interoperability:** Users must be able to export their data in standard, machine-readable formats and move between services without losing control over their content.
 
 ---
 
-**License:** Creative Commons CC0 (Public Domain)**  
+## Auditability, Transparency & Redress
+
+- **Algorithmic Impact Assessments (AIA):** Large platforms must publish periodic AIAs documenting amplification behaviors, bias, and mitigation strategies. AIAs should include measurable metrics and remediation timelines.  
+- **Independent Audits:** Independent third-party audits (privacy, safety, algorithmic behavior) are required for platforms above a clear scale/revenue threshold; audit findings and remediation plans must be published.  
+- **Human Appeals & Fast Redress:** Users must have clear, timely appeal routes with human review for moderation, profiling, ad-targeting disputes, and data removal requests.  
+- **Provenance & Explanation Reports:** Users can request a high-level explanation of why content or an ad was shown (ranking signals, major factors) and receive a remediation plan if the system acted incorrectly.
+
+---
+
+## Enforcement, Scope & Practicality
+
+- **Focus on Commercial Actors:** Regulation should target commercial distributors, major platforms, device manufacturers, and app stores — entities with market power and revenue that can be held to compliance standards.  
+- **Avoid Policing Hobbyists:** Hobbyist open-source forks, private builds, and personal compilations that are not commercially distributed should not be the enforcement targets.  
+- **Proportional Remedies:** Penalties should scale with harm and include mandatory remediation, customer restitution, funding for audits, and public reporting obligations.  
+- **Supportive Public Funding:** Governments should fund public-interest technology teams to create open, audited reference implementations and educational resources for constrained recommenders and privacy-preserving proofs.
+
+---
+
+## Implementation Patterns & Developer Guidance
+
+- **Default Safe Modes:** Platforms must ship a “Constrained Recommendations” setting and default it on for new users and minors.  
+- **Creator-First Discovery:** Provide human-curated topical showcases, subscription directories, and small-creator promotion channels to support diversity without relying on virality for discovery.  
+- **Transparent Ranking Controls:** Publish high-level ranking signals and allow users to toggle feed ordering (chronological, subscriptions-first, constrained-similarity, explore).  
+- **Ad Explanation API:** Standardize a one-click UI for “Why this ad?” with clear deletion and opt-out endpoints.
+
+---
+
+## Open Source & Decentralization
+
+- Open and decentralized systems are public goods. Regulation should not force closed identity stacks onto open ecosystems.  
+- Compliance obligations apply to commercial distributions and consumer products sold in a jurisdiction. Manufacturers and sellers of consumer devices are responsible for local compliance.  
+- Do not criminalize or attempt to police private forks or non-commercial personal builds.
+
+---
+
+## Remedies & Funding
+
+- Platforms that willfully violate these standards should fund consumer remediation and independent oversight bodies.  
+- Governments should provide grants or funding for public-interest implementations that help developers adopt safe-by-default recommenders and privacy-preserving age solutions.
+
+---
+
+## Closing Statement
+Digital rights must be actionable, auditable, and enforceable. The highest priority is fixing platform incentives and algorithm design: constrain recommendation systems, restrict exploitative advertising, preserve privacy, and avoid identity-based “safety” infrastructures that create surveillance. Protect discovery, creativity, and open networks while reducing harms for everyone.
+
+---
+
+**License:** Creative Commons CC0 (Public Domain)  
 **Drafted by:** Naneko Kohana, MikaSukie, MikaLorielle, Jayden Freeman  
-**Assisted by:** AI
-**Date created:** August 11, 2025 <br>
+**Date created:** August 11, 2025  
 **Last Updated:** November 5, 2025
