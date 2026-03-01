@@ -134,5 +134,5 @@ Digital rights must be actionable, auditable, and enforceable. The highest prior
 
 **License:** Creative Commons CC0 (Public Domain)  
 **Drafted by:** Naneko Kohana, MikaSukie, MikaLorielle, Jayden Freeman  
-**Date created:** August 11, 2025  
-**Last Updated:** November 5, 2025
+**Date created:** 11, August, 2025  
+**Last Updated:** 1, March, 2026
